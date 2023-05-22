@@ -11,3 +11,14 @@ Inserire un nuovo noleggio verificando che il veicolo non sia impegnato. Il cost
 Data una targa calcolare il totale in euro dei noleggi
 Dato un codice fiscale calcolare il totale in euro dei noleggi
 Ricavare il totale in euro dei noleggi raggruppato per auto.
+
+#IMMAGINI
+`![immagine_6](immagine_6.PNG)`
+#COMANDI
+inzio
+![Immagine_4](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/ac0bdc62-4ef2-4ff4-bd04-5fc21db85557)
+![Immagine_5](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/411557af-dc54-4ec7-a86c-b593646253cb)
+![Immagine_6](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/1923e1b5-b9dd-48c1-943e-129726ec3b81)
+![immagine_1](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/acfa1636-7e33-4006-ac9f-f70bfb395ce2)
+![immagine_2](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/ceb53913-8b7a-4ed0-9482-701f13a82f31)
+![immagine_3](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/2526ef5e-babb-4946-bbbf-b27e8e15d5be)
