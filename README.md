@@ -23,3 +23,6 @@ inzio
 ![immagine_1](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/acfa1636-7e33-4006-ac9f-f70bfb395ce2)
 ![immagine_2](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/ceb53913-8b7a-4ed0-9482-701f13a82f31)
 ![immagine_3](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/2526ef5e-babb-4946-bbbf-b27e8e15d5be)
+
+#LINK PER SCARICARE 
+https://github.com/git-for-windows/git/releases/
