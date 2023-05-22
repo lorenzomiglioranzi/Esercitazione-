@@ -28,3 +28,5 @@ inzio
 https://github.com/git-for-windows/git/releases/
 
 #APICETTI: ` 
+
+#TOKEN: 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
