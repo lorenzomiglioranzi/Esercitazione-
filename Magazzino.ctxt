@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Magazzino
+comment1.params=
+comment1.target=Magazzino()
+comment1.text=\r\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ Magazzino\r\n
+comment2.params=c
+comment2.target=void\ IngressoContainer(Container)
+comment3.params=posizione
+comment3.target=void\ UscitaMagazzino(int)
+comment4.params=codice
+comment4.target=java.lang.String\ CercaContainer(int)
+comment5.params=
+comment5.target=java.lang.String\ TotCarico()
+comment6.params=
+comment6.target=int\ TotCaricoContainerRefrigerati()
+numComments=7
