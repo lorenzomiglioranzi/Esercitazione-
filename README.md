@@ -14,9 +14,9 @@ Ricavare il totale in euro dei noleggi raggruppato per auto.
 
 #IMMAGINI
 `![immagine_6](immagine_6.PNG)`
-
 #COMANDI
 inzio
+
 ![Immagine_4](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/ac0bdc62-4ef2-4ff4-bd04-5fc21db85557)
 ![Immagine_5](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/411557af-dc54-4ec7-a86c-b593646253cb)
 ![Immagine_6](https://github.com/lorenzomiglioranzi/Esercitazione-/assets/121610209/1923e1b5-b9dd-48c1-943e-129726ec3b81)
